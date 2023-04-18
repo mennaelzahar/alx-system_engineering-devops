@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "word1 word2 word3 word2 word4 word1" | sort | uniq -u
+sort list | uniq -u
